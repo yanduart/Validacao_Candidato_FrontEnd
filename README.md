@@ -16,11 +16,13 @@ Retornando aprovado ou inapto, com os motivos.
 HTML5
 CSS3
 JavaScript
+
 📂 Estrutura
 📁 validacao-candidato
 ├── index.html
 ├── style.css
 └── JavaScript.js
+
 ⚙️ Como executar
 git clone https://github.com/yanduart/validacao_candidato.git
 cd validacao_candidato
