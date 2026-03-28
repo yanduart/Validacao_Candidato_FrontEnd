@@ -39,7 +39,6 @@ Retornando **aprovado** ou **inapto**, com os motivos.
 
 ```bash id="2clhq4"
 git clone https://github.com/yanduart/validacao_candidato.git
-cd validacao_candidato
 ```
 
 Abra o `index.html` no navegador.
